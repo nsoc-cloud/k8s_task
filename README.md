@@ -1,1 +1,1 @@
-# k8s_task
+# kubernetes
